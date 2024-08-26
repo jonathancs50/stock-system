@@ -18,5 +18,5 @@ The Stock System Application is designed to manage and track stock for both read
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/stock-system-application.git
-   cd stock-system-application
+   git clone https://github.com/jonathancs50/stock-system.git
+   cd stock-system
